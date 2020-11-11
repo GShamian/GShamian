@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Golang 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Find job and deploy TavernOfGames
+- 🥅 2020 Goals: Learn k8s, Docker and Microservices
 - ⚡ Fun fact: I love to sing and read technical literature
 
 
