@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Golang 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn k8s, Docker and Microservices
-- ⚡ Fun fact: I love to sing and read technical literature
+- 🥅 2021 Goals: Learn k8s, Docker and Microservices
+- ⚡ Fun fact: I love life and that says it all
 
 
 ### Connect with me:
@@ -37,7 +37,6 @@
 </details>
 
 [twitter]: https://twitter.com/GeorgeShamian
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/gosha.shamian
 [visual_studio_code]: https://code.visualstudio.com
 [go]: https://golang.org
